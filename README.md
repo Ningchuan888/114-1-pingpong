@@ -9,6 +9,9 @@
 <img width="1223" height="465" alt="image" src="https://github.com/user-attachments/assets/0e241169-7426-4b38-b561-5e6ab9800e7d" />
 
 ## 訓練成果
+
+<img width="1037" height="208" alt="image" src="https://github.com/user-attachments/assets/03035714-4ce3-46a1-ab63-691152307b0f" />
+
 ### 訓練5步
 <img width="960" height="720" alt="loss_curve" src="https://github.com/user-attachments/assets/5a5106eb-11ea-494f-aee1-4210ba2bcae5" />
 
