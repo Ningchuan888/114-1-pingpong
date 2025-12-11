@@ -74,7 +74,7 @@ Windows 10 專業版64位元
 <img width="1247" height="581" alt="image" src="https://github.com/user-attachments/assets/c79f50ed-7532-421b-ab80-02763c3b1fdb" />
 <img width="1223" height="465" alt="image" src="https://github.com/user-attachments/assets/0e241169-7426-4b38-b561-5e6ab9800e7d" />
 
-## 訓練成果
+## 訓練
 
 <img width="1037" height="208" alt="image" src="https://github.com/user-attachments/assets/03035714-4ce3-46a1-ab63-691152307b0f" />
 
