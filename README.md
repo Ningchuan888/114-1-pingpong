@@ -65,7 +65,7 @@ Windows 10 專業版64位元
 
 
 # 12/11報告
-## 流程圖
+## breakdown
 <img width="1123" height="536" alt="image" src="https://github.com/user-attachments/assets/f519fafa-93f3-4d12-a0af-7dac52377ea4" />
 <img width="986" height="582" alt="image" src="https://github.com/user-attachments/assets/7fc0294b-1a87-4c84-a7f8-feaa392d2c89" />
 
