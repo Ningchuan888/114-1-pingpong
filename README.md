@@ -1,4 +1,6 @@
-<img width="1053" height="126" alt="image" src="https://github.com/user-attachments/assets/caf4a54d-792c-47e5-97ca-ae99bfa2aa93" /># 需求-功能(乒乓
+# 機器學習
+
+# 需求-功能(乒乓
 ## 外掛名稱：乒乓 AI
 
 遊戲名稱：PAIA來一場乒乓球對戰
