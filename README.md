@@ -78,17 +78,7 @@ Windows 10 專業版64位元
 
 <img width="1037" height="208" alt="image" src="https://github.com/user-attachments/assets/03035714-4ce3-46a1-ab63-691152307b0f" />
 
-### 訓練5步
+### loss 圖
 <img width="960" height="720" alt="loss_curve" src="https://github.com/user-attachments/assets/5a5106eb-11ea-494f-aee1-4210ba2bcae5" />
 
-### 訓練50步
-<img width="960" height="720" alt="loss_curve" src="https://github.com/user-attachments/assets/de2c65b4-087b-4364-b591-e3b751def78a" />
 
-### 訓練100步
-<img width="960" height="720" alt="loss_curve" src="https://github.com/user-attachments/assets/48e7b607-dd96-4761-9a77-01fec7f01fb1" />
-
-### 訓練500步
-<img width="960" height="720" alt="loss_curve" src="https://github.com/user-attachments/assets/106718f8-a5b9-4bf6-a8ff-4a50768ea51c" />
-
-### 訓練6000步
-<img width="960" height="720" alt="loss_curve" src="https://github.com/user-attachments/assets/2b97462c-7fbc-4337-9a9a-029176d4edcc" />
